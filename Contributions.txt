@@ -1,0 +1,53 @@
+Aydemir Mert:
+-------------------
+- Worked on the design of the homepage (Home.js)
+- Added the ability to scroll vertically on the homepage
+- Added appropriate CSS to create text boxes that can be seen after scrolling on the homepage
+- Added an extra grid in Home.js that allowed to add a 5 day forecast section
+- Finished the design of the Weather.js page by adding two elements (transparent boxes) and appropriate grids in each box
+- Reformatted the transparent boxes in Weather.js to make sure they are all the same size, same distance apart and with a consistent transparency between the elements of Home.js and ChooseHighway.js
+- Attended all labs and engaged in discussions with the demonstrator
+- General bug fixing/tidying
+-------------------
+
+
+Gavinas Vladislavas
+-------------------
+- Implemented all of the API used in the Weather App, including:
+	- Data fetching using two different weather services (OpenWeatherMap and Dark Sky), such as the forecast location, temperature, 'Feels like' temperature, 3-hourly/5-day forecasts, windspeed, precipitation etc.
+	- Data formatting, such as determining the appropriate weather icons to use based on fetched weather conditions, converting wind direction from degrees to cardinal directions, etc.
+	- Displaying the aforementioned data in the following pages: Home.js, WeatherMTC.js, WeatherSTA.js, WeatherTTL.js
+- Implementation of the page slider that allows the weather app to mimic screen-sliding found on mobile devices, including dynamic dots indicating the currently active page
+- Implementation of dynamic background changing based on the weather conditions
+- Attended all labs and engaged in discussions with the demonstrator
+- General bug fixing/tidying
+-------------------
+
+
+Naz Baver
+-------------------
+- Added the ability to click the transparent boxes in ChooseHighway.js to transition to the Weather.js page
+- Added the ability for Weather.js to display different information depending on which transparent box was clicked in ChooseHighway.js, which eliminated the need for 3 separate pages
+- Added the ability to transition back from Weather.js to ChooseHighway.js by double clicking anywhere on the page
+- Attended all labs and engaged in discussions with the demonstrator
+- General bug fixing/tidying
+-------------------
+
+
+Sadoughi-Yarand Aria
+-------------------
+- Started the implementation of the Weather.js page by repurposing the existing ChooseHighway.js template to extract 3 transparent boxes, and added 3 transparent boxes to Weather.js, partly completing the set task
+- Applied a CSS fix to an existing WeatherTTL.js file that made the page title more proportional 
+- Attended all but one lab sessions
+-------------------
+
+
+Ullah Amin
+-------------------
+- Created template of Home.js 
+- Added appropriate CSS for arrangement of elements, grids and text for headings
+- Created template of ChooseHighway.js with appropriate images, heading, text and transparent boxes
+- Edited open-source weather icons in order to correspond with the overall design of the weather app
+- Attended all labs and engaged in discussions with the demonstrator
+- General bug fixing/tidying
+-------------------
