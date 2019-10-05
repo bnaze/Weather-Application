@@ -9,7 +9,7 @@ Background changes depending on the weather
 API used was OpenWeatherAPI -> https://openweathermap.org/api 
 
 
-![Image](https://imgur.com/29569ccf-0b7c-40ca-b86f-5e24f8c53ab0)
+![Image](https://i.imgur.com/cuJgaTx.png)
 ![Image](https://i.imgur.com/Qk6ZJ32.png)
 ![Image](https://i.imgur.com/Chch62J.png)
 ![Image](https://i.imgur.com/Z8M83SL.png)
