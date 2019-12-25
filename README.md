@@ -10,5 +10,7 @@ API used was OpenWeatherAPI -> https://openweathermap.org/api
 
 
 ![Image](https://i.imgur.com/cuJgaTx.png)
+
 ![Image](https://i.imgur.com/Chch62J.png)
+
 ![Image](https://i.imgur.com/Z8M83SL.png)
